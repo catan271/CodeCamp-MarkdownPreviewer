@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CodeCamp-MarkdownPreviewer/static/css/main.55478503.chunk.css",
-    "main.js": "/CodeCamp-MarkdownPreviewer/static/js/main.cc132a83.chunk.js",
-    "main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/main.cc132a83.chunk.js.map",
+    "main.js": "/CodeCamp-MarkdownPreviewer/static/js/main.239e64aa.chunk.js",
+    "main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/main.239e64aa.chunk.js.map",
     "runtime-main.js": "/CodeCamp-MarkdownPreviewer/static/js/runtime-main.20390a20.js",
     "runtime-main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/runtime-main.20390a20.js.map",
     "static/js/2.0e31b372.chunk.js": "/CodeCamp-MarkdownPreviewer/static/js/2.0e31b372.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.20390a20.js",
     "static/js/2.0e31b372.chunk.js",
     "static/css/main.55478503.chunk.css",
-    "static/js/main.cc132a83.chunk.js"
+    "static/js/main.239e64aa.chunk.js"
   ]
 }
