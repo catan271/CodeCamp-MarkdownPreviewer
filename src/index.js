@@ -3,7 +3,16 @@ import ReactDOM from 'react-dom';
 import { createStore } from 'redux'
 import {Provider, connect} from "react-redux";
 import marked from 'marked';
+import Prism from 'prismjs';
 import './index.css';
+import './prism.css'
+
+marked.setOptions({
+    breaks: true,
+    highlight: function (code) {
+      return Prism.highlight(code, Prism.languages.javascript, 'javascript');
+    }
+  });
 
 //Redux:
 const defaultInput = `# Welcome to my React Markdown Previewer!
@@ -17,9 +26,9 @@ Heres some code, \`<div></div>\`, between 2 backticks.
 // this is multi-line code:
 
 function anotherExample(firstLine, lastLine) {
-    if (firstLine == '\`\`\`' && lastLine == '\`\`\`') {
-        return multiLineCode;
-    }
+  if (firstLine == '\`\`\`' && lastLine == '\`\`\`') {
+    return multiLineCode;
+  }
 }
 \`\`\`
 
@@ -33,6 +42,10 @@ There's also [links](https://www.freecodecamp.org), and
 
 And if you want to get really crazy, even tables:
 
+Wild Header | Crazy Header | Another Header?
+------------ | ------------- | -------------
+Your content can | be here, and it | can be here....
+And here. | Okay. | I think we get it.
 
 - And of course there are lists.
   - Some are bulleted.
@@ -173,4 +186,3 @@ ReactDOM.render(
     </Provider>,
     document.getElementById('root')
 )
-
