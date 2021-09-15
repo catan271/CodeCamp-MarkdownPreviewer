@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/CodeCamp-MarkdownPreviewer/static/css/main.55478503.chunk.css",
-    "main.js": "/CodeCamp-MarkdownPreviewer/static/js/main.239e64aa.chunk.js",
-    "main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/main.239e64aa.chunk.js.map",
+    "main.css": "/CodeCamp-MarkdownPreviewer/static/css/main.ba7d16e0.chunk.css",
+    "main.js": "/CodeCamp-MarkdownPreviewer/static/js/main.24a2d7ec.chunk.js",
+    "main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/main.24a2d7ec.chunk.js.map",
     "runtime-main.js": "/CodeCamp-MarkdownPreviewer/static/js/runtime-main.20390a20.js",
     "runtime-main.js.map": "/CodeCamp-MarkdownPreviewer/static/js/runtime-main.20390a20.js.map",
-    "static/js/2.0e31b372.chunk.js": "/CodeCamp-MarkdownPreviewer/static/js/2.0e31b372.chunk.js",
-    "static/js/2.0e31b372.chunk.js.map": "/CodeCamp-MarkdownPreviewer/static/js/2.0e31b372.chunk.js.map",
+    "static/js/2.9befd9ca.chunk.js": "/CodeCamp-MarkdownPreviewer/static/js/2.9befd9ca.chunk.js",
+    "static/js/2.9befd9ca.chunk.js.map": "/CodeCamp-MarkdownPreviewer/static/js/2.9befd9ca.chunk.js.map",
     "index.html": "/CodeCamp-MarkdownPreviewer/index.html",
-    "static/css/main.55478503.chunk.css.map": "/CodeCamp-MarkdownPreviewer/static/css/main.55478503.chunk.css.map",
-    "static/js/2.0e31b372.chunk.js.LICENSE.txt": "/CodeCamp-MarkdownPreviewer/static/js/2.0e31b372.chunk.js.LICENSE.txt"
+    "static/css/main.ba7d16e0.chunk.css.map": "/CodeCamp-MarkdownPreviewer/static/css/main.ba7d16e0.chunk.css.map",
+    "static/js/2.9befd9ca.chunk.js.LICENSE.txt": "/CodeCamp-MarkdownPreviewer/static/js/2.9befd9ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.20390a20.js",
-    "static/js/2.0e31b372.chunk.js",
-    "static/css/main.55478503.chunk.css",
-    "static/js/main.239e64aa.chunk.js"
+    "static/js/2.9befd9ca.chunk.js",
+    "static/css/main.ba7d16e0.chunk.css",
+    "static/js/main.24a2d7ec.chunk.js"
   ]
 }
